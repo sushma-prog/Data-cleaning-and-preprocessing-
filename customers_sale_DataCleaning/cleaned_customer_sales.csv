@@ -1,0 +1,4 @@
+Customer_ID,Name,Age,Gender,Total_Sales,Signup_Date
+101,Alice,25.0,female,100.0,2022-01-15
+104,David,40.0,male,250.0,2022-04-05
+108,Grace,60.0,female,500.0,2022-08-30
